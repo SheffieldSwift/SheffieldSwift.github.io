@@ -1,0 +1,10 @@
+# Site settings
+title: SheffieldSwift
+description: >
+  A Swift meetup group based in Sheffield
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://sheffieldswift.github.io" # the base hostname & protocol for your site
+twitter_username: sheffieldswift
+
+# Build settings
+markdown: kramdown
