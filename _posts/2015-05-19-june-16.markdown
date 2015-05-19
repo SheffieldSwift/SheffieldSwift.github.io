@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Next event: June 16th"
+date:   2015-05-19 23:54:00
+categories: notice
+---
+
+Our first event was a blast!
+
+The next meetup will be held at the same place (Union St) on 16th June at 19:00.
+
+You can find more details at the [Eventbrite page](http://www.eventbrite.co.uk/e/sheffield-swift-16th-june-tickets-17056616800).
